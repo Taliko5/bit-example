@@ -2,8 +2,9 @@
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
-    <CardTwo></CardTwo>
-    <ProgressBar></ProgressBar>
+    <List></List>
+    <Card></Card>
+    <Menu></Menu>
     <p></p>
     <Spinner></Spinner>
     <p></p>
@@ -12,17 +13,19 @@
 
 <script>
 import HelloWorld from './components/HelloWorld.vue';
-import CardTwo from './components/CardTwo.vue';
-import ProgressBar from './components/elements/ProgressBar.vue';
+import List from './components/List.vue';
+import Card from './components/elements/Card.vue';
+import Menu from './components/elements/Menu.vue';
 import Spinner from './components/elements/Spinner.vue';
 
 export default {
   name: 'App',
   components: {
     HelloWorld,
-    CardTwo,
-    ProgressBar,
+    List,
+    Menu,
     Spinner,
+    Card,
   },
 };
 </script>

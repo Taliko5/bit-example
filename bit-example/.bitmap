@@ -13,7 +13,7 @@
         "origin": "AUTHORED",
         "exported": true
     },
-    "noliko-zwa.bit-vue-example/elements@0.0.1": {
+    "noliko-zwa.bit-vue-example/elements@0.0.2": {
         "files": [
             {
                 "relativePath": "src/components/elements/Card.vue",
@@ -21,9 +21,9 @@
                 "name": "Card.vue"
             },
             {
-                "relativePath": "src/components/elements/ProgressBar.vue",
+                "relativePath": "src/components/elements/Menu.vue",
                 "test": false,
-                "name": "ProgressBar.vue"
+                "name": "Menu.vue"
             },
             {
                 "relativePath": "src/components/elements/Spinner.vue",

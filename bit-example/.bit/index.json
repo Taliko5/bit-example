@@ -9,14 +9,6 @@
   },
   {
     "id": {
-      "scope": "noliko-zwa.bit-vue-example",
-      "name": "elements"
-    },
-    "isSymlink": false,
-    "hash": "ad70de07318e72fc0677a90d24f90eb30840b13c"
-  },
-  {
-    "id": {
       "scope": null,
       "name": "card-two"
     },
@@ -30,5 +22,13 @@
     },
     "isSymlink": false,
     "hash": "bd19c0a16d05cd78cb84ba6c315d1f8b605d5b3c"
+  },
+  {
+    "id": {
+      "scope": "noliko-zwa.bit-vue-example",
+      "name": "elements"
+    },
+    "isSymlink": false,
+    "hash": "ad70de07318e72fc0677a90d24f90eb30840b13c"
   }
 ]
